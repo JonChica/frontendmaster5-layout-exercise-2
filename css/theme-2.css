@@ -1,0 +1,37 @@
+body {
+  margin-left: 50px;
+  margin-top: 25px;
+}
+
+.box {
+  height: 100px;
+  width: 150px;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.box-base {
+  background-color: #003cff;
+}
+
+.box-important {
+  background-color: #00196d;
+}
+
+.box-warning {
+  background-color: #a0b4f5;
+}
+
+.box-shadow {
+  box-shadow: -25px 25px 25px 5px #454545;
+}
+
+.text-principal {
+  font-family: sans-serif;
+}
+
+.text-secondary {
+  font-family: serif;
+}

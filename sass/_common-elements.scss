@@ -1,0 +1,35 @@
+body {
+  margin-left: 50px;
+  margin-top: 25px;
+}
+.box {
+  height: 100px;
+  width: 150px;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: $border-radius;
+}
+
+.box-base {
+  background-color: $box-base;
+}
+
+.box-important {
+  background-color: $box-important;
+}
+
+.box-warning {
+  background-color: $box-warning;
+}
+
+.box-shadow {
+  box-shadow: $box-shadow;
+}
+ .text-principal {
+  font-family: $text-principal;
+ }
+
+ .text-secondary {
+   font-family: $text-secondary;
+ }
